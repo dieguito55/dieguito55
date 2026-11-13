@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dieguito55/dieguito55/main/assets/profile-banner.svg" width="100%" alt="Juan Diego Canaza Paucara · Ingeniero de Sistemas · Full-Stack, Backend e IA aplicada"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dieguito55/dieguito55/main/assets/profile-banner.svg?v=engineering-1" width="100%" alt="Juan Diego Canaza Paucara · Ingeniero de Sistemas · Full-Stack, Backend e IA aplicada"/></p>
 
 <div align="center">
 
