@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dieguito55/dieguito55/main/assets/profile-banner.svg" width="100%" alt="Juan Diego Canaza Paucara · Ingeniero de Sistemas · Full-Stack, UX/UI e IA aplicada"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dieguito55/dieguito55/main/assets/profile-banner.svg" width="100%" alt="Juan Diego Canaza Paucara · Ingeniero de Sistemas · Full-Stack, Backend e IA aplicada"/></p>
 
 <div align="center">
 
@@ -6,75 +6,80 @@
 [![AgendIA](https://img.shields.io/badge/AgendIA-Producto_educativo-7C3AED?style=for-the-badge)](https://agendianet.com/)
 [![DESCOSUR](https://img.shields.io/badge/DESCOSUR-Trabajo_publicado-0F766E?style=for-the-badge)](https://comunidaddepractica.descosur.org.pe/)
 
-**Ingeniero de Sistemas · Full-Stack Developer · UX/UI · IA aplicada**
+**Ingeniero de Sistemas · Full-Stack & Backend Developer · IA aplicada**
 
 </div>
 
-## 👋 Software que conecta personas, procesos y tecnología
+## Ingeniería de software para necesidades reales
 
-Diseño y construyo **productos digitales de extremo a extremo**: desde las necesidades del usuario y el prototipo hasta el backend, las integraciones y el despliegue. Mi experiencia reúne sistemas empresariales, plataformas educativas, aplicaciones offline y soluciones de IA.
+Soy **ingeniero de Sistemas de la Universidad Nacional del Altiplano**. Desarrollo plataformas web, sistemas empresariales y aplicaciones de escritorio, conectando **frontend, backend, datos e inteligencia artificial aplicada**.
 
-Trabajo con **React / Next.js, FastAPI / Laravel, PostgreSQL y Rust / Tauri**, combinando criterio de producto, interfaces claras e implementación técnica.
+Mi experiencia incluye proyectos para empresas privadas, organizaciones y entidades públicas: análisis de requerimientos, diseño técnico, implementación, seguridad, integraciones, pruebas, despliegue y capacitación. Trabajo principalmente con **React/Next.js, FastAPI/Laravel, PostgreSQL y Rust/Tauri**.
+
+He construido soluciones para operación de ISP, gestión institucional, educación con conectividad limitada y búsqueda académica inteligente. Complemento la ingeniería con criterio de producto y UX/UI para que el sistema sea útil, comprensible y operable.
 
 <div align="center">
 
-**01 · Experiencia de usuario** &nbsp; / &nbsp; **02 · Ingeniería full-stack** &nbsp; / &nbsp; **03 · Inteligencia artificial**
+**FULL-STACK** &nbsp; / &nbsp; **BACKEND E INTEGRACIONES** &nbsp; / &nbsp; **IA APLICADA**
 
 </div>
+
+## Qué puedo aportar a un equipo
+
+- **Sistemas completos:** paneles administrativos y portales conectados con APIs, bases de datos y servicios externos.
+- **Backend modular:** servicios REST asíncronos, separación de responsabilidades, SQLAlchemy Async y migraciones con Alembic.
+- **Seguridad de aplicaciones:** JWT en cookies HTTP-only, rotación de refresh tokens, RBAC y rate limiting.
+- **Integraciones operativas:** facturación electrónica con SUNAT, pagos, Meta/WhatsApp y routers MikroTik.
+- **IA aplicada al software:** embeddings, recuperación semántica con FAISS, visión por computadora y procesamiento de lenguaje natural.
+- **Entrega y operación:** Git, GitHub Actions, Linux, VPS/cPanel y documentación de despliegue y recuperación.
 
 ## 🚀 Productos y proyectos
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-### 🎓 AgendIA · Luvi
-**Educación + experiencia móvil + IA**
+### TUISP
+**Plataforma empresarial para ISP**
 
-Diseño e implementación de flujos para estudiantes: aula, tareas y agenda, con una interfaz amigable e integración de Luvi.
+Desarrollo full-stack de CRM, facturación, pagos, tickets y portal de clientes. API asíncrona con **FastAPI y PostgreSQL**, frontend con **Next.js y TypeScript**, seguridad por roles e integraciones con SUNAT, Meta y MikroTik.
 
-[Explorar AgendIA ↗](https://agendianet.com/)
+**APIs · Seguridad · Datos · Integraciones**
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-### 🌐 DESCOSUR
-**UX/UI + plataforma institucional**
+### AgendIA · Luvi
+**Producto educativo con IA aplicada**
 
-Arquitectura de información, portal responsive, administración, buscador y biblioteca. Del requerimiento a la publicación y capacitación.
+Plataforma para estudiantes y familias. Desarrollo de experiencias móviles para aula, tareas y agenda, con integración del asistente de IA **Luvi** y una interfaz adaptada al contexto escolar.
+
+[Explorar producto ↗](https://agendianet.com/)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### DESCOSUR
+**Plataforma institucional en producción**
+
+Portal público y panel administrativo con gestión de contenidos, categorías, buscador, biblioteca y consultas. Participación desde requerimientos hasta pruebas, despliegue y capacitación.
 
 [Ver plataforma ↗](https://comunidaddepractica.descosur.org.pe/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-### 🧩 TUISP
-**Software empresarial + integraciones**
+### Aulanauta
+**Ingeniería de escritorio y educación offline**
 
-CRM, facturación, pagos, tickets y portal para clientes ISP. Next.js, FastAPI y PostgreSQL; integraciones con SUNAT, Meta y MikroTik.
+Aplicaciones gamificadas con **React, TypeScript, Rust, Tauri y SQLite**. Contenido dinámico y narración local. Despliegue en **7 instituciones de Inicial y 8 de Primaria**, con capacitación docente.
 
-**Frontend · Backend · Seguridad · Despliegue**
+**Offline-first · Persistencia local · TTS**
 
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Aulanauta
-**Educación gamificada + offline-first**
-
-Interfaces para niños, actividades interactivas y narración local. Despliegue en **7 instituciones de Inicial y 8 de Primaria**, con capacitación docente.
-
-**React · Rust · Tauri · SQLite**
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 ### 🔬 IA aplicada e investigación
 
-- **[Búsqueda académica semántica](https://github.com/dieguito55/recomendador-semantico-tesis):** integración de repositorios, embeddings, FAISS y extensión de navegador.
-- **[OmniFace](https://github.com/dieguito55/omniface):** reconocimiento facial en tiempo real para asistencia, con backend y paneles operativos.
+- **[Nexus Academic AI · búsqueda semántica](https://github.com/dieguito55/recomendador-semantico-tesis):** motor multi-repositorio con **36 756 registros de UNAP y UNSA**, FastAPI, PostgreSQL, embeddings BGE-M3, FAISS y extensión Chrome MV3.
+- **[OmniFace](https://github.com/dieguito55/omniface):** sistema full-stack de asistencia con reconocimiento facial en tiempo real, React, FastAPI, MySQL/MariaDB, JWT y dashboards operativos.
 - **[FishWatch](https://github.com/dieguito55/fish):** detección visual con YOLO y procesamiento en tiempo real.
 - **[Quishing](https://github.com/dieguito55/Quishing_paper):** Vision Transformers y fusión visual–léxica para detección de amenazas en QR.
 
@@ -124,19 +129,19 @@ Offline-first · Piper TTS · SQLite · CI/CD · VPS/cPanel · Documentación t�
 
 ---
 
-## 💼 Experiencia en contextos reales
+## Experiencia profesional
 
 **TUISP · DESCOSUR · UNAP · Gobierno Regional de Puno, vía consultoría externa · SpinOut · Comunitarios**
 
-<details>
+<details open>
 <summary><b>Ver trayectoria y responsabilidades</b></summary>
 
-- **TUISP:** desarrollo full-stack para ISP, seguridad, APIs e integraciones con servicios externos.
-- **DESCOSUR:** plataforma institucional desde requerimientos y UX/UI hasta despliegue y capacitación.
-- **Universidad Nacional del Altiplano:** prácticas en backend e IA para SIIRET, integración de repositorios y búsqueda semántica.
+- **TUISP · Full-Stack Developer:** plataforma para ISP, API asíncrona, seguridad, portal de clientes, facturación e integraciones. Experiencia profesional culminada.
+- **DESCOSUR · Full-Stack Developer:** proyecto institucional culminado; portal público, administración, contenidos, pruebas, despliegue y capacitación.
+- **Universidad Nacional del Altiplano · Backend e IA:** prácticas en SIIRET, integración por API REST y OAI-PMH, búsqueda semántica, extensión de navegador y validación funcional.
 - **Gobierno Regional de Puno, vía consultoría externa:** aplicaciones educativas offline y colaboración en módulos SIEES con Laravel, Vue y Quasar.
 - **SpinOut y Comunitarios:** desarrollo web, diseño de experiencias y apoyo tecnológico a iniciativas de innovación e impacto social.
-- **Promolíder:** prácticas full-stack en CRM, APIs, automatización y documentación de despliegues.
+- **Promolíder · Full-Stack Developer Intern:** CRM con Laravel, Vue.js y Python; APIs, bases SQL, reorganización de repositorios y despliegues con build, caché, colas y rollback.
 - **UGEL El Collao:** portal web, análisis de datos, infografías y maquetación del PEL 2025–2030.
 - **Poder Judicial, ODANC Puno:** aplicación Laravel, soporte e infraestructura; **309 horas de voluntariado**.
 
@@ -156,10 +161,10 @@ Offline-first · Piper TTS · SQLite · CI/CD · VPS/cPanel · Documentación t�
 
 ### 🤝 Construyamos algo útil
 
-Me interesa colaborar en **productos digitales, sistemas empresariales e inteligencia artificial aplicada**.
+Aporto desarrollo de extremo a extremo, capacidad para integrar sistemas y experiencia implementando software en contextos reales. Me interesa colaborar en **ingeniería de software, backend, productos digitales e IA aplicada**.
 
 [Hablemos en LinkedIn ↗](https://www.linkedin.com/in/juan-diego-canaza-paucara/)
 
-<sub>Diseño con propósito · Ingeniería de extremo a extremo · Tecnología para contextos reales</sub>
+<sub>Ingeniería de software · Sistemas empresariales · Inteligencia artificial aplicada</sub>
 
 </div>
